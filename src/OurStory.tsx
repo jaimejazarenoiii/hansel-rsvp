@@ -53,7 +53,7 @@ function OurStory() {
         cardHeight={650}
         theme={{
           textColor: "#000",
-          primary: "#f0f0f0",
+          primary: "#000000",
           titleColor: "#00000",
           titleColorActive: "#00000",
           secondary: "#fff",
@@ -67,6 +67,8 @@ function OurStory() {
         }}
         hideControls
         borderLessCards
+        lineWidth={0.5}
+        timelinePointDimension={10}
         mediaSettings={{
           align: "center",
           fit: "cover",

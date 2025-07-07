@@ -79,7 +79,19 @@
 }
 
 .card-description::after {
+  content: none !important;
+  display: none !important;
   box-shadow: none !important;
+  background: transparent !important;
+}
+
+.slick-next {
+  right: 170px !important;
+}
+
+.slick-prev {
+  left: 170px !important;
+  z-index: 2 !important;
 }
 @keyframes App-logo-spin {
   from {
