@@ -1,3 +1,39 @@
+@font-face {
+  font-family: main-font;
+  src: url(malibu/Malibu.otf);
+}
+
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+
+.space-mono-regular {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.space-mono-bold {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.space-mono-regular-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.space-mono-bold-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.main-font {
+  font-family: main-font;
+}
+
 .App {
   text-align: center;
 }
@@ -28,6 +64,23 @@
   color: #61dafb;
 }
 
+.hZfabd {
+  box-shadow: none !important;
+  border: none !important;
+  background: transparent !important;
+}
+
+.jXhBnc::after {
+  background: transparent !important;
+}
+
+.tYZnL img {
+  object-fit: contain !important;
+}
+
+.card-description::after {
+  box-shadow: none !important;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
