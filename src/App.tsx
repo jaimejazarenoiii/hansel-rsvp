@@ -4,6 +4,7 @@ import "./App.css";
 import MainBanner from "./MainBanner";
 import OurStory from "./OurStory";
 import Prenup from "./Prenup";
+import Venue from "./Venue";
 import Reminders from "./Reminders";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <MainBanner />
       <OurStory />
       <Prenup />
+      <Venue />
       <Reminders />
     </div>
   );
