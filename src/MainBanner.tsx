@@ -12,7 +12,7 @@ function MainBanner() {
         Your browser does not support the audio element.
       </audio>
       <div className="flex flex-col p-0 lg:p-24 lg:flex-row main-font">
-        <div className="w-full lg:w-1/3 flex flex-col text-center lg:text-left p-24 lg:p-0">
+        <div className="w-full lg:w-1/3 flex flex-col text-center lg:text-left p-12 lg:p-24 lg:p-0">
           <img src={ring} className="w-16 h-16 self-center lg:self-start" />
           <h1 className="text-xl lg:text-3xl space-mono-regular font-stretch-extra-expanded text-gray-400">
             WEDDING INVITATION
