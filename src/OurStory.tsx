@@ -44,7 +44,7 @@ const customDarkTheme = {
 function OurStory() {
   return (
     <div id="ourStory" className="w-full px-0 lg:px-32 mx-auto">
-      <h1 className="text-7xl mt-36 lg:mt-0 w-full text-center main-font mb-48 md:mb-24">
+      <h1 className="text-7xl mt-24 lg:mt-0 w-full text-center main-font mb-24 md:mb-24">
         Our Story
       </h1>
       <Chrono

@@ -7,7 +7,7 @@ function Invitation() {
   return (
     <div
       id="invitation"
-      className="grid grid-cols-1 lg:grid-cols-2 px-4 py-0 lg:px-32 lg:py-32"
+      className="grid grid-cols-1 lg:grid-cols-2 px-4 py-0 lg:px-32 lg:py-18"
     >
       <div className="p4">
         <img src={InvitationFace} className="w-full h-full"></img>
