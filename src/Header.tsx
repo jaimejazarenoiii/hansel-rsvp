@@ -1,10 +1,10 @@
 function Header() {
   return (
-    <header className="bg-white shadow">
+    <header className="bg-white">
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
         {/* Logo */}
         <div className="flex flex-1">
-          <button>
+          <button id="playButton">
             <svg
               className="w-6 h-6 text-black"
               aria-hidden="true"

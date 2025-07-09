@@ -9,10 +9,12 @@ import Reminders from "./Reminders";
 import Invitation from "./Invitation";
 import RSVP from "./RSVP";
 import Header from "./Header";
+import Overlay from "./Overlay";
 
 function App() {
   return (
     <div className="App">
+      <Overlay />
       <Header />
       <MainBanner />
       <OurStory />
