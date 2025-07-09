@@ -43,7 +43,7 @@ const customDarkTheme = {
 
 function OurStory() {
   return (
-    <div className="w-full px-0 lg:px-32 mx-auto">
+    <div id="ourStory" className="w-full px-0 lg:px-32 mx-auto">
       <h1 className="text-7xl mt-36 lg:mt-0 w-full text-center main-font mb-48 md:mb-24">
         Our Story
       </h1>

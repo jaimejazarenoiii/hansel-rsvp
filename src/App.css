@@ -6,6 +6,10 @@
 @import "flowbite/src/themes/default";
 @plugin "flowbite/plugin";
 
+html {
+  scroll-behavior: smooth;
+}
+
 .space-mono-regular {
   font-family: "Space Mono", monospace;
   font-weight: 400;

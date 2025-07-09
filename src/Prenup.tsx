@@ -42,7 +42,7 @@ function Responsive() {
     ],
   };
   return (
-    <div className="w-full mx-auto p-2 lg:p-32">
+    <div id="prenupPhotos" className="w-full mx-auto p-2 lg:p-32">
       <div className="flex flex-col lg:flex-row">
         <div className="flex flex-col w-full lg:w-1/3">
           <h1 className="text-7xl mt-36 w-full text-center lg:text-left main-font">

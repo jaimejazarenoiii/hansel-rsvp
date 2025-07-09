@@ -7,7 +7,7 @@ import bgMusic from "./bgMusic.mp3";
 function MainBanner() {
   return (
     <>
-      <audio id="bgMusic" hidden>
+      <audio id="bgMusic" hidden loop>
         <source src={bgMusic} type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
