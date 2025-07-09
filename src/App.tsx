@@ -10,6 +10,7 @@ import Invitation from "./Invitation";
 import RSVP from "./RSVP";
 import Header from "./Header";
 import Overlay from "./Overlay";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Invitation />
       <Reminders />
       <RSVP />
+      <Footer />
     </div>
   );
 }

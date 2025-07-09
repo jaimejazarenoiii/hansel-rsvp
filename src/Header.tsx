@@ -29,7 +29,7 @@ function Header() {
   return (
     <>
       <header className="bg-white shadow relative z-50">
-        <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
+        <nav className="mx-auto flex items-center justify-between p-6 lg:px-24">
           {/* Left Side: Hamburger + Audio */}
           <div className="flex flex-1 items-center gap-4">
             {/* Hamburger - Mobile only */}
