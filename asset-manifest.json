@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/hansel-rsvp/static/css/main.57ffb1b4.css",
-    "main.js": "/hansel-rsvp/static/js/main.42845f5f.js",
+    "main.css": "/hansel-rsvp/static/css/main.f4d34701.css",
+    "main.js": "/hansel-rsvp/static/js/main.fb1eee6f.js",
     "static/js/453.dfa32d81.chunk.js": "/hansel-rsvp/static/js/453.dfa32d81.chunk.js",
+    "static/media/bgMusic.mp3": "/hansel-rsvp/static/media/bgMusic.09d202f903ea76b22b70.mp3",
     "static/media/main_banner_bg.webp": "/hansel-rsvp/static/media/main_banner_bg.3c1d163c458a26f60db3.webp",
+    "static/media/invi_dress.jpeg": "/hansel-rsvp/static/media/invi_dress.174ef91813c33404822f.jpeg",
+    "static/media/invi_entourage.jpeg": "/hansel-rsvp/static/media/invi_entourage.a23c5c048bab178ea35b.jpeg",
+    "static/media/invi_last.jpeg": "/hansel-rsvp/static/media/invi_last.a10a1a8527917c6d7cb4.jpeg",
+    "static/media/inv_1.jpeg": "/hansel-rsvp/static/media/inv_1.736b083fb12a445bca5d.jpeg",
     "static/media/Malibu.otf": "/hansel-rsvp/static/media/Malibu.b2ffb7e8ce8bb13be2ce.otf",
     "static/media/ring.png": "/hansel-rsvp/static/media/ring.f3e0746368d39f376710.png",
     "index.html": "/hansel-rsvp/index.html",
-    "main.57ffb1b4.css.map": "/hansel-rsvp/static/css/main.57ffb1b4.css.map",
-    "main.42845f5f.js.map": "/hansel-rsvp/static/js/main.42845f5f.js.map",
+    "main.f4d34701.css.map": "/hansel-rsvp/static/css/main.f4d34701.css.map",
+    "main.fb1eee6f.js.map": "/hansel-rsvp/static/js/main.fb1eee6f.js.map",
     "453.dfa32d81.chunk.js.map": "/hansel-rsvp/static/js/453.dfa32d81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57ffb1b4.css",
-    "static/js/main.42845f5f.js"
+    "static/css/main.f4d34701.css",
+    "static/js/main.fb1eee6f.js"
   ]
 }
