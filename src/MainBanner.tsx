@@ -3,6 +3,7 @@
 import React from "react";
 import ring from "./ring.png";
 import bg from "./main_banner_bg.webp";
+import bgMusic from "./bgMusic.mp3";
 
 function MainBanner() {
   return (
@@ -11,13 +12,17 @@ function MainBanner() {
         <img src={ring} className="w-16 h-16 self-center lg:self-start" />
         <h1 className="text-xl lg:text-3xl space-mono-regular font-stretch-extra-expanded text-gray-400">
           WEDDING INVITATION
+          <audio controls autoPlay>
+            <source src={bgMusic} type="audio/mpeg" />
+            Your browser does not support the audio element.
+          </audio>
         </h1>
         <h1 className="text-7xl lg:text-9xl text-center lg:text-left py-16">
           Hanze <br /> and Krisel
         </h1>
         <a
           href=""
-          className="space-mono-regular px-8 py-2 m-auto lg:m-0 w-1/2 text-center border-1 rounded"
+          className="space-mono-regular px-8 py-2 m-auto lg:m-0 w-1/1 lg:w-1/2 text-center border-1 rounded"
         >
           RSVP
         </a>

@@ -86,13 +86,25 @@
 }
 
 .slick-next {
-  right: 170px !important;
+  right: 70px !important;
 }
 
 .slick-prev {
-  left: 170px !important;
+  left: 70px !important;
   z-index: 2 !important;
 }
+
+@media only screen and (min-width: 1025px) {
+  .slick-next {
+    right: 80px !important;
+  }
+
+  .slick-prev {
+    left: 170px !important;
+    z-index: 2 !important;
+  }
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
