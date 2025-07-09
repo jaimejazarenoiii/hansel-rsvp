@@ -45,10 +45,10 @@ function Responsive() {
     <div id="prenupPhotos" className="w-full mx-auto p-2 lg:p-32">
       <div className="flex flex-col lg:flex-row">
         <div className="flex flex-col w-full lg:w-1/3">
-          <h1 className="text-7xl mt-36 w-full text-center lg:text-left main-font">
+          <h1 className="text-7xl mt-18 lg:mt-32 w-full text-center lg:text-left main-font">
             Prenup Photos
           </h1>
-          <p className="text-md mt-12 text-center px-4 lg:px-0 lg:text-left font-stretch-extra-expanded space-mono-regular">
+          <p className="text-md mt-12 mb-12 lg:mb-0 text-center px-4 lg:px-0 lg:text-left font-stretch-extra-expanded space-mono-regular">
             <q>
               But seek first his kingdom and his righteousness, and all these
               things will be given to you as well.
