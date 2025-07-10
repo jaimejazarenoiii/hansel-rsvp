@@ -51,6 +51,7 @@ function OurStory() {
         <div className="flex flex-col lg:flex-row align-center w-full items-start bg-white mt-2 mb-2 rounded-none shadow-none border-none">
           <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-[-1deg] w-full lg:w-1/2 text-center z-10">
             <img
+              loading="lazy"
               src="https://i.imgur.com/n6bZ3v6.jpeg"
               className="w-full h-full  object-cover border-b mb-12 border-gray-300"
             />
@@ -96,9 +97,10 @@ function OurStory() {
             {/* Card 1 */}
             <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-[-1deg] w-1/2 text-center z-10">
               <img
+                loading="lazy"
                 src="https://i.imgur.com/I8VJTIh.jpeg"
                 alt="Image 1"
-                className="w-full h-auto rounded"
+                className="w-full h-auto"
               />
               <p className="mt-12 text-sm text-gray-700 font-semibold"></p>
             </div>
@@ -106,9 +108,10 @@ function OurStory() {
             {/* Card 2 */}
             <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-[1deg] w-1/2 text-center -ml-8 z-20">
               <img
+                loading="lazy"
                 src="https://i.imgur.com/xsqfkQh.jpeg"
                 alt="Image 2"
-                className="w-full h-auto rounded"
+                className="w-full h-auto"
               />
               <p className="mt-12 text-sm text-gray-700 font-semibold"></p>
             </div>
@@ -118,6 +121,7 @@ function OurStory() {
         <div className="flex flex-col align-center w-full lg:flex-row items-center bg-white mt-2 mb-2 rounded-none shadow-none border-none">
           <div className="bg-white p-4 rounded-lg mx-14 lg:mx-32 shadow-lg transform rotate-[-1deg] w-full lg:w-1/2 text-center z-10">
             <img
+              loading="lazy"
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcGNnuDGnzW9l4JTxDO5_YmbVGRYBEBb6Vw&s"
               className="w-full h-full mb-12 object-cover border-b border-gray-300"
             />
@@ -150,6 +154,7 @@ function OurStory() {
           </div>
           <div className="bg-white p-4 order-1 lg:order-2 rounded-lg shadow-lg transform rotate-[1deg] w-full lg:w-1/2 text-center z-10">
             <img
+              loading="lazy"
               src="https://i.imgur.com/3gAEKVH.jpeg"
               className="w-full h-full mb-12 object-cover border-b border-gray-300"
             />
@@ -159,6 +164,7 @@ function OurStory() {
         <div className="flex flex-col align-center w-full lg:flex-row items-center bg-white mt-2 mb-2 rounded-none shadow-none border-none">
           <div className="bg-white p-4 rounded-lg mx-14 lg:mx-32 shadow-lg transform rotate-[-1deg] w-full lg:w-1/2 text-center z-10">
             <img
+              loading="lazy"
               src="https://i.imgur.com/OK72GO8.jpeg"
               className="w-full h-full mb-12 object-cover border-b border-gray-300"
             />
@@ -192,6 +198,7 @@ function OurStory() {
           </div>
           <div className="bg-white p-4 mx-14 lg:mx-32 order-1 lg:order-2 rounded-lg shadow-lg transform rotate-[1deg] w-full lg:w-1/2 text-center z-10">
             <img
+              loading="lazy"
               src="https://i.imgur.com/VSvaiag.jpeg"
               className="w-full h-full mb-12 object-cover border-b border-gray-300"
             />
@@ -203,9 +210,10 @@ function OurStory() {
             {/* Card 1 */}
             <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-[-1deg] w-full text-center z-10">
               <img
+                loading="lazy"
                 src="https://i.imgur.com/YRGVTNo.jpeg"
                 alt="Image 1"
-                className="w-full h-auto rounded"
+                className="w-full h-auto"
               />
               <p className="mt-12 text-sm text-gray-700 font-semibold"></p>
             </div>
@@ -213,9 +221,10 @@ function OurStory() {
             {/* Card 2 */}
             <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-[1deg] w-full text-center -ml-8 z-20">
               <img
+                loading="lazy"
                 src="https://i.imgur.com/BFRQPmS.jpeg"
                 alt="Image 2"
-                className="w-full h-auto rounded"
+                className="w-full h-auto"
               />
               <p className="mt-12 text-sm text-gray-700 font-semibold"></p>
             </div>

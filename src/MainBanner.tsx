@@ -30,6 +30,7 @@ function MainBanner() {
 
         <div className="w-full lg:w-2/3 pl-0 lg:pl-12 relative">
           <img
+            loading="lazy"
             src={bg}
             className="w-full h-[470px] lg:h-full object-cover rounded-0 lg:rounded-ss-[20em] z-10 pr-16"
           />

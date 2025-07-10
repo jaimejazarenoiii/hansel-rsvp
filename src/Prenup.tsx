@@ -60,60 +60,70 @@ function Responsive() {
         <Slider {...settings} className="w-full lg:w-2/3 pl-0 lg:pl-24">
           <div className="flex align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/i0GSqv9.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/7GV7J8H.jpeg"
               className="aspect-[2/3]  object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex flex-col align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/FwMWgdd.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex flex-col align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/NAZqG4J.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex flex-col align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/OHmSO69.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex flex-col align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/IpZk0My.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex flex-col align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/cQvnMwi.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex flex-col align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/nIKH5TS.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex flex-col align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/K3yHvka.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />
           </div>
           <div className="flex flex-col align-center w-full items-center bg-white mt-2 mb-2 rounded-none shadow-none border-black shadow-md px-2">
             <img
+              loading="lazy"
               src="https://i.imgur.com/dMxJWxL.jpeg"
               className="aspect-[2/3] object-cover border-b border-gray-300"
             />

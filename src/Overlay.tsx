@@ -41,9 +41,10 @@ function Overlay() {
           {/* Card 1 */}
           <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-[-1deg] w-64 text-center z-10">
             <img
+              loading="lazy"
               src="https://i.imgur.com/IpZk0My.jpeg"
               alt="Image 1"
-              className="w-full h-auto rounded"
+              className="w-full h-auto"
             />
             <p className="mt-4 text-sm text-gray-700 font-semibold"></p>
           </div>
@@ -51,9 +52,10 @@ function Overlay() {
           {/* Card 2 */}
           <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-[1deg] w-64 text-center -ml-8 z-20">
             <img
+              loading="lazy"
               src="https://i.imgur.com/dMxJWxL.jpeg"
               alt="Image 2"
-              className="w-full h-auto rounded"
+              className="w-full h-auto"
             />
             <p className="mt-4 text-sm text-gray-700 font-semibold"></p>
           </div>
