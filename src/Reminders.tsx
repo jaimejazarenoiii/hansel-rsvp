@@ -2,7 +2,7 @@ import React from "react";
 
 function Reminders() {
   return (
-    <div id="fAQ" className="w-full flex flex-col lg:flex-row px-8 lg:px-24">
+    <div id="fAQs" className="w-full flex flex-col lg:flex-row px-8 lg:px-24">
       <div className="w-full lg:w-1/2 p-4 space-y-4 pt-32 lg:pt-0 mb-12 lg:mb-0">
         <h2 className="text-5xl font-bold text-center mb-12 main-font">
           Details
@@ -78,7 +78,7 @@ function Reminders() {
 
       <div className="w-full lg:w-1/2 p-4 space-y-4">
         <h2 className="text-5xl font-bold text-center mb-8 main-font">
-          Reminders / FAQ
+          Reminders / FAQs
         </h2>
 
         <div className="space-mono-bold font-stretch-extra-expanded">
