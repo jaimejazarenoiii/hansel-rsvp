@@ -18,7 +18,7 @@ function MainBanner() {
             WEDDING INVITATION
           </h1>
           <h1 className="text-7xl lg:text-9xl text-center lg:text-left py-16">
-            Hanze <br /> and Krisel
+            Hanze <br /> and Sel
           </h1>
           <a
             href=""

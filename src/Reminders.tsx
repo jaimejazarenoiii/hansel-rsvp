@@ -15,6 +15,8 @@ function Reminders() {
             </summary>
             <div className="px-4 py-3 bg-white text-gray-600">
               Blue Gardens Wedding & Events Venue
+              <br/>
+              The ceremony will be at Upper Gardens, with the reception to follow at Chateau Hall.
             </div>
           </details>
 
@@ -34,7 +36,7 @@ function Reminders() {
               Time <span className="text-xl">+</span>
             </summary>
             <div className="px-4 py-3 bg-white text-gray-600 border-t border-gray-300">
-              3:00 PM
+              The ceremony will start at exactly 3:00 PM. We kindly request your presence at the venue 30 minutes prior to the start of the ceremony.
             </div>
           </details>
 
@@ -56,6 +58,7 @@ function Reminders() {
               Ladies: Formal White Long Dress <br />
               Gentlemen: Black Coat, White Long Sleeves, Black Necktie, Black
               Pants
+              <p className="text-bold mt-2 text-xs">**Strictly no wearing of Polo Shirt, T-shirt, Denim, Slippers, Jeans</p>
             </div>
           </details>
 
@@ -66,7 +69,8 @@ function Reminders() {
             </summary>
             <div className="px-4 py-3 bg-white text-left text-gray-600 border-t border-gray-300">
               Ladies: Formal White Jumpsuit <br />
-              Gentlemen: Formal White long sleeves & Black Slacks or Black Pants
+              Gentlemen: Formal White Long Sleeves & Black Slacks or Black Pants
+              <p className="text-bold mt-2 text-xs">**Strictly no wearing of Polo Shirt, T-shirt, Denim, Slippers, Jeans</p>
             </div>
           </details>
         </div>
