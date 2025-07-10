@@ -2,7 +2,7 @@
   "name": "hansel-rsvp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jaimejazarenoiii.github.io/hansel-rsvp",
+  "homepage": "https://hanselrsvp.online",
   "dependencies": {
     "@egjs/react-flicking": "^4.14.0",
     "@testing-library/dom": "^10.4.0",
