@@ -3,7 +3,7 @@ import React from "react";
 function Reminders() {
   return (
     <div id="fAQs" className="w-full flex flex-col lg:flex-row px-8 lg:px-24">
-      <div className="w-full lg:w-1/2 p-4 space-y-4 pt-32 lg:pt-0 mb-12 lg:mb-0">
+      <div className="w-full lg:w-1/2 p-4 space-y-4 pt-12 lg:pt-0 mb-12 lg:mb-0">
         <h2 className="text-5xl font-bold text-center mb-12 main-font">
           Details
         </h2>
@@ -100,7 +100,6 @@ function Reminders() {
               <span className="text-xl">+</span>
             </summary>
             <div className="px-4 py-3 bg-white text-gray-600 border-t border-gray-300">
-              The favor of your reply is requested on or before 1 August 2025.
               Kindly confirm via SMS, Facebook Messenger, or through this
               website. We sincerely appreciate your understanding in not
               bringing additional guests beyond your reserved seat(s). SMS:

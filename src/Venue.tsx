@@ -16,10 +16,10 @@ function Venue() {
       </div>
 
       <div className="w-full px-4 lg:w-1/2 lg:px-16 space-y-4 pt-0 lg:pt-0 lg:pt-0 lg:mb-0">
-        <img className="w-full h-[400px] rounded-ss-[2em]"
+        <img className="w-full h-[400px] rounded-ss-[2em] object-cover"
           src="https://www.jenniferweddingandevents.com/suppliers/wp-content/uploads/2021/03/35389728_1711869835529063_627249642521755648_o-1024x683.jpg" />
-        <img className="w-full h-[400px] rounded-br-[2em]"
-          src="https://i.imgur.com/YEF5bKL.jpeg" />
+        <img className="w-full h-[400px] rounded-br-[2em] object-cover"
+          src="https://scontent-mnl1-1.xx.fbcdn.net/v/t1.6435-9/118285662_3177019685680730_8502980328430088126_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cf85f3&_nc_eui2=AeGk1XhS2dnp3wwrilL72laMO3n8Q9IPAVk7efxD0g8BWdIEaIBUfkAqMrdsPuISXf6ZTZcOY6RPKThUwK8JIvD7&_nc_ohc=2MMoRv9ZROcQ7kNvwGdeNdG&_nc_oc=Adld5SC9YPqwVulUnpWrculRZymSGc8iaPBQRq76cnFfzUpVVwrgU2KZLaVlrWM4Us0&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=D6bFfQUtYvtPSAiFUUmk8w&oh=00_AfTUCRuvED9jO8AUCQTgNHllrRKStDRRdjoCuzoPDRQXXA&oe=68972293" />
       </div >
 
     </div>
