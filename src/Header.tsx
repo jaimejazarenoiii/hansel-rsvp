@@ -22,7 +22,7 @@ function Header() {
     "Our Story",
     "Prenup Photos",
     "Venue",
-    "Invitation",
+    "Entourage",
     "FAQ",
   ];
 

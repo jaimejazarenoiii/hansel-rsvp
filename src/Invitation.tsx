@@ -6,7 +6,7 @@ import InvitationLastPage from "./invi_last.jpeg";
 function Invitation() {
   return (
     <div
-      id="invitation"
+      id="entourage"
       className="grid grid-cols-1 lg:grid-cols-2 px-4 py-0 lg:px-32 lg:py-18"
     >
       <div className="p4">
