@@ -36,7 +36,7 @@ function Overlay() {
           Open Invitation
         </button>
       </div>
-      <div className="w-1/2 self-center mt-12 lg:mt-0">
+      <div className="w-full lg:w-1/2 self-center mt-12 lg:mt-0">
         <div className="flex justify-center items-start gap-0 p-0 lg:p-8">
           {/* Card 1 */}
           <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-[-1deg] w-64 text-center z-10">
