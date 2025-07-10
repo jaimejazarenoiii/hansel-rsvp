@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hansel-rsvp/static/css/main.f4d34701.css",
-    "main.js": "/hansel-rsvp/static/js/main.fb1eee6f.js",
-    "static/js/453.dfa32d81.chunk.js": "/hansel-rsvp/static/js/453.dfa32d81.chunk.js",
-    "static/media/bgMusic.mp3": "/hansel-rsvp/static/media/bgMusic.09d202f903ea76b22b70.mp3",
-    "static/media/main_banner_bg.webp": "/hansel-rsvp/static/media/main_banner_bg.3c1d163c458a26f60db3.webp",
-    "static/media/invi_dress.jpeg": "/hansel-rsvp/static/media/invi_dress.174ef91813c33404822f.jpeg",
-    "static/media/invi_entourage.jpeg": "/hansel-rsvp/static/media/invi_entourage.a23c5c048bab178ea35b.jpeg",
-    "static/media/invi_last.jpeg": "/hansel-rsvp/static/media/invi_last.a10a1a8527917c6d7cb4.jpeg",
-    "static/media/inv_1.jpeg": "/hansel-rsvp/static/media/inv_1.736b083fb12a445bca5d.jpeg",
-    "static/media/Malibu.otf": "/hansel-rsvp/static/media/Malibu.b2ffb7e8ce8bb13be2ce.otf",
-    "static/media/ring.png": "/hansel-rsvp/static/media/ring.f3e0746368d39f376710.png",
-    "index.html": "/hansel-rsvp/index.html",
-    "main.f4d34701.css.map": "/hansel-rsvp/static/css/main.f4d34701.css.map",
-    "main.fb1eee6f.js.map": "/hansel-rsvp/static/js/main.fb1eee6f.js.map",
-    "453.dfa32d81.chunk.js.map": "/hansel-rsvp/static/js/453.dfa32d81.chunk.js.map"
+    "main.css": "/static/css/main.8e1210db.css",
+    "main.js": "/static/js/main.a47e3027.js",
+    "static/js/453.dfa32d81.chunk.js": "/static/js/453.dfa32d81.chunk.js",
+    "static/media/bgMusic.mp3": "/static/media/bgMusic.09d202f903ea76b22b70.mp3",
+    "static/media/main_banner_bg.webp": "/static/media/main_banner_bg.3c1d163c458a26f60db3.webp",
+    "static/media/invi_entourage.jpeg": "/static/media/invi_entourage.ee3e71f169132d0d75c5.jpeg",
+    "static/media/invi_dress.jpeg": "/static/media/invi_dress.174ef91813c33404822f.jpeg",
+    "static/media/invi_last.jpeg": "/static/media/invi_last.20edb028735b4914b8a9.jpeg",
+    "static/media/inv_1.jpeg": "/static/media/inv_1.736b083fb12a445bca5d.jpeg",
+    "static/media/Malibu.otf": "/static/media/Malibu.b2ffb7e8ce8bb13be2ce.otf",
+    "static/media/ring.png": "/static/media/ring.f3e0746368d39f376710.png",
+    "index.html": "/index.html",
+    "main.8e1210db.css.map": "/static/css/main.8e1210db.css.map",
+    "main.a47e3027.js.map": "/static/js/main.a47e3027.js.map",
+    "453.dfa32d81.chunk.js.map": "/static/js/453.dfa32d81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4d34701.css",
-    "static/js/main.fb1eee6f.js"
+    "static/css/main.8e1210db.css",
+    "static/js/main.a47e3027.js"
   ]
 }
