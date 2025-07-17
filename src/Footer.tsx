@@ -1,9 +1,8 @@
 function Footer() {
   return (
-    <div className="bg-black text-white flex flex-col items-center py-8">
+    <div className="bg-black text-white flex flex-col items-center py-24">
       <p className="text-l text-center">
-        &#169; Jaime Jazareno III & Ben Elano <br />
-        <i>2025</i>
+        Copyright 2025 &#169; Jaime Jazareno III & Ben Elano <br />
       </p>
     </div>
   );

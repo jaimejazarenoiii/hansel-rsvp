@@ -11,7 +11,10 @@ function MainBanner() {
         <source src={bgMusic} type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
-      <div className="flex flex-col p-0 lg:p-24 lg:flex-row main-font">
+      <div
+        id="home"
+        className="flex flex-col p-0 lg:p-24 lg:flex-row main-font"
+      >
         <div className="w-full lg:w-1/3 flex flex-col text-center lg:text-left p-12">
           <img src={ring} className="w-16 h-16 self-center lg:self-start" />
           <h1 className="text-xl lg:text-3xl space-mono-regular font-stretch-extra-expanded text-gray-400">
@@ -22,13 +25,13 @@ function MainBanner() {
           </h1>
           <a
             href=""
-            className="space-mono-regular px-8 py-2 m-auto lg:m-0 w-1/1 lg:w-1/2 text-center border-1 rounded"
+            className="space-mono-regular px-8 py-2 m-auto lg:m-0 w-2/3 lg:w-1/2 text-center border-1 rounded"
           >
             RSVP
           </a>
         </div>
 
-        <div className="w-full lg:w-2/3 pl-0 lg:pl-12 relative">
+        <div className="w-full lg:w-2/3 pl-0 lg:pl-12 relative animate-slideUp">
           <img
             loading="lazy"
             src={bg}

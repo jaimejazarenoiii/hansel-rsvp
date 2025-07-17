@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import "./Navigation.css";
 import MainBanner from "./MainBanner";
 import OurStory from "./OurStory";
 import Prenup from "./Prenup";
