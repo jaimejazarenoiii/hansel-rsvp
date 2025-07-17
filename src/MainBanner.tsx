@@ -24,7 +24,7 @@ function MainBanner() {
             Hanze <br /> and Sel
           </h1>
           <a
-            href=""
+            href="#rsvp"
             className="space-mono-regular px-8 py-2 m-auto lg:m-0 w-2/3 lg:w-1/2 text-center border-1 rounded"
           >
             RSVP
