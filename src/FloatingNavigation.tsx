@@ -100,7 +100,7 @@ const Navbar = () => {
         <span className="mx-1 text-gray-300">|</span>
 
         {/* Navigation Buttons */}
-        <nav className="flex items-center justify-center gap-x-4">
+        <nav className="flex items-center justify-center gap-x-1 lg:gap-x-4">
           {sectionIds.map(({ id, label, icon: Icon }) => (
             <motion.button
               key={id}

@@ -14,7 +14,7 @@ function Reminders() {
           </h2>
           <div className="space-mono-bold font-stretch-extra-expanded">
             <details>
-              <summary className="cursor-pointer px-4 py-3 border-b border-gray-300 text-gray-800 font-medium flex justify-between items-center">
+              <summary className="cursor-pointer text-start px-4 py-3 border-b border-gray-300 text-gray-800 font-medium flex justify-between items-center">
                 Reception & Ceremony Venue
                 <span className="text-xl">+</span>
               </summary>
@@ -58,11 +58,11 @@ function Reminders() {
             </details>
 
             <details>
-              <summary className="cursor-pointer px-4 py-3 border-b border-gray-300 text-gray-800 font-medium flex justify-between items-center">
+              <summary className="cursor-pointer text-start px-4 py-3 border-b border-gray-300 text-gray-800 font-medium flex justify-between items-center">
                 Attire for Principal Sponsors
                 <span className="text-xl">+</span>
               </summary>
-              <div className="px-4 py-3 bg-white text-left text-gray-600 border-t border-gray-300">
+              <div className="px-4 py-3 bg-white text-gray-600 border-t border-gray-300">
                 Ladies: Formal White Long Dress <br />
                 Gentlemen: Black Coat, White Long Sleeves, Black Necktie, Black
                 Pants
@@ -78,7 +78,7 @@ function Reminders() {
                 Attire for Guests
                 <span className="text-xl">+</span>
               </summary>
-              <div className="px-4 py-3 bg-white text-left text-gray-600 border-t border-gray-300">
+              <div className="px-4 py-3 bg-white text-start text-gray-600 border-t border-gray-300">
                 Ladies: Formal White Jumpsuit <br />
                 Gentlemen: Formal White Long Sleeves & Black Slacks or Black
                 Pants
@@ -151,7 +151,7 @@ function Reminders() {
             </details>
 
             <details>
-              <summary className="cursor-pointer px-4 py-3 border-b border-gray-300 text-gray-800 font-medium flex justify-between items-center">
+              <summary className="cursor-pointer text-left px-4 py-3 border-b border-gray-300 text-gray-800 font-medium flex justify-between items-center">
                 Help Us Remember This Day
                 <span className="text-xl">+</span>
               </summary>
