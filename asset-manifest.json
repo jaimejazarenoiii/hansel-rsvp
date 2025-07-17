@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e1210db.css",
-    "main.js": "/static/js/main.1ab21e0f.js",
+    "main.css": "/static/css/main.161fbfd6.css",
+    "main.js": "/static/js/main.05a7a901.js",
     "static/js/453.dfa32d81.chunk.js": "/static/js/453.dfa32d81.chunk.js",
     "static/media/bgMusic.mp3": "/static/media/bgMusic.09d202f903ea76b22b70.mp3",
+    "static/media/invi_entourage.png": "/static/media/invi_entourage.7640dc029ed9d2531fb2.png",
     "static/media/main_banner_bg.webp": "/static/media/main_banner_bg.3c1d163c458a26f60db3.webp",
-    "static/media/invi_entourage.png": "/static/media/invi_entourage.047663783d8e791314f0.png",
     "static/media/Malibu.otf": "/static/media/Malibu.b2ffb7e8ce8bb13be2ce.otf",
     "static/media/ring.png": "/static/media/ring.f3e0746368d39f376710.png",
     "index.html": "/index.html",
-    "main.8e1210db.css.map": "/static/css/main.8e1210db.css.map",
-    "main.1ab21e0f.js.map": "/static/js/main.1ab21e0f.js.map",
+    "main.161fbfd6.css.map": "/static/css/main.161fbfd6.css.map",
+    "main.05a7a901.js.map": "/static/js/main.05a7a901.js.map",
     "453.dfa32d81.chunk.js.map": "/static/js/453.dfa32d81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e1210db.css",
-    "static/js/main.1ab21e0f.js"
+    "static/css/main.161fbfd6.css",
+    "static/js/main.05a7a901.js"
   ]
 }
